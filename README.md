@@ -5,3 +5,5 @@ Feature selection, or attribute selection, is an effective data pre-processing m
 3. to avoid the curse of dimensionality,
 4. improve data's compatibility with a learning model class,
 5. encode inherent symmetries present in the input space.
+
+## [A brief introduction of feature selection](https://www.zhihu.com/question/19774445/answer/1968792998)
