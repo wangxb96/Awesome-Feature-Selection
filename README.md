@@ -10,20 +10,23 @@ In general, there are three main types of feature selection methods, namely **fi
 
 ![feature selection methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Feature%20selection%20methods.png)
 
-## Filter Methods
+
+## [Filter Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Filter%20Methods.md)
 > Filter type methods select variables regardless of the model. They are based only on general features like the correlation with the variable to predict. Filter methods suppress the least interesting variables. The other variables will be part of a classification or a regression model used to classify or to predict data. These methods are particularly effective in computation time and robust to overfitting. Filter methods tend to select redundant variables when they do not consider the relationships between variables. However, more elaborate features try to minimize this problem by removing variables highly correlated to each other, such as the Fast Correlation Based Filter (FCBF) algorithm.
 ![Filter Methods](https://upload.wikimedia.org/wikipedia/commons/2/2c/Filter_Methode.png)
 
 
-## Wrapper Methods
+## [Wrapper Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Wrapper%20Methods.md)
 > Wrapper methods evaluate subsets of variables which allows, unlike filter approaches, to detect the possible interactions amongst variables. The two main disadvantages of these methods are:
 * The increasing overfitting risk when the number of observations is insufficient.
 * The significant computation time when the number of variables is large.
 ![Wrapper Methods](https://upload.wikimedia.org/wikipedia/commons/0/04/Feature_selection_Wrapper_Method.png)
 
-## Embedded Methods 
+
+## [Embedded Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Embeded%20Methods.md) 
 > Embedded methods have been recently proposed that try to combine the advantages of both previous methods. A learning algorithm takes advantage of its own variable selection process and performs feature selection and classification simultaneously, such as the FRMT algorithm.
 ![Embedded Methods ](https://upload.wikimedia.org/wikipedia/commons/b/bf/Feature_selection_Embedded_Method.png)
 
-## Graph Based Feature Selection
+
+## [Graph Based Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Graph%20Based%20Methods.md)
 ![Graph Based Feature Selection](https://www.researchgate.net/profile/Sina-Khanmohammadi/publication/303692787/figure/fig1/AS:367876138651649@1464719914238/Graph-based-feature-selection.png)
