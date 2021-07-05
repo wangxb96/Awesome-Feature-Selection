@@ -5,4 +5,4 @@ Feature selection, or attribute selection, is an effective data pre-processing m
 **Schematic representation of the feature selection**
 ![Schematic representation of the feature selection](https://easy-ai.oss-cn-shanghai.aliyuncs.com/2019-10-31-031529.jpg "Schematic representation of the feature selection")
 In general, there are three main types of feature selection methods, namely **filter**, **wrapper** and **embedded**.
-![feature selection methods](https://d3i71xaburhd42.cloudfront.net/7981a767bc0b57ad41187d31c8b62a3df89610df/6-Table1-1.png)
+![feature selection methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Feature%20selection%20methods.png)
