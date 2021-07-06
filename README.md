@@ -4,10 +4,10 @@
 ![License](https://img.shields.io/github/license/wangxb96/Awesome-Feature-Selection?color=blue) [![wangxb96](https://img.shields.io/badge/dynamic/json?color=0084ff&label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmatrix-58-77)](https://www.zhihu.com/people/matrix-58-77) [![wangxb96](https://img.shields.io/twitter/follow/MatrixJLU?style=social&logo=twitter)](https://twitter.com/MatrixJLU) 
 
      
-Feature selection, or attribute selection, is an effective data pre-processing measure that removes redundant and invalid features, thereby reducing the overhead in machine learning and statistical training while improving training results. According to [Wikipedia](https://en.wikipedia.org/wiki/Feature_selection), there are several main advantages of feature selection: simplification of models to make them easier to interpret by researchers/users, shorter training times, to avoid the curse of dimensionality, improve data's compatibility with a learning model class, encode inherent symmetries present in the input space. In practice, feature selection is often used to process high-dimensional data, such as [DNA microarray](https://en.wikipedia.org/wiki/DNA_microarray) data.
+Feature selection, or attribute selection, is an effective data pre-processing measure that removes redundant and invalid features, thereby reducing the overhead in machine learning and statistical training while improving training results. According to Wikipedia's [feature selection](https://en.wikipedia.org/wiki/Feature_selection) page, there are several main advantages of feature selection: simplification of models to make them easier to interpret by researchers/users, shorter training times, to avoid the curse of dimensionality, improve data's compatibility with a learning model class, encode inherent symmetries present in the input space. In practice, feature selection is often used to process high-dimensional data, such as [DNA microarray](https://en.wikipedia.org/wiki/DNA_microarray) data.
 
 
-## [A brief introduction of feature selection](https://www.zhihu.com/question/19774445/answer/1968792998)
+## A brief introduction of feature selection
 **Schematic representation of the feature selection**
 ![Schematic representation of the feature selection](https://easy-ai.oss-cn-shanghai.aliyuncs.com/2019-10-31-031529.jpg "Schematic representation of the feature selection")
 
