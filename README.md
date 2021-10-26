@@ -9,16 +9,19 @@ Feature selection, or attribute selection, is an effective data pre-processing m
 
 ## A brief introduction of feature selection
 **Schematic representation of the feature selection**
-![Schematic representation of the feature selection](https://easy-ai.oss-cn-shanghai.aliyuncs.com/2019-10-31-031529.jpg "Schematic representation of the feature selection")
+<!-- ![Schematic representation of the feature selection](https://easy-ai.oss-cn-shanghai.aliyuncs.com/2019-10-31-031529.jpg "Schematic representation of the feature selection")-->
+<img src="https://easy-ai.oss-cn-shanghai.aliyuncs.com/2019-10-31-031529.jpg" alt="drawing" width="550"/>
 
 In general, there are three main types of feature selection methods, namely **filter**, **wrapper** and **embedded**. Some information about these methods can be seen in the figure below.
 
-![feature selection methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Feature%20selection%20methods.png)
-
+<!-- ![feature selection methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Feature%20selection%20methods.png)-->
+<img src="https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Feature%20selection%20methods.png" alt="drawing" width="600"/>
+----------------------------------------------------------------------------------
 
 ## [Filter Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Filter%20Methods.md)
 > Filter type methods select variables regardless of the model. They are based only on general features like the correlation with the variable to predict. Filter methods suppress the least interesting variables. The other variables will be part of a classification or a regression model used to classify or to predict data. These methods are particularly effective in computation time and robust to overfitting. Filter methods tend to select redundant variables when they do not consider the relationships between variables. However, more elaborate features try to minimize this problem by removing variables highly correlated to each other, such as the Fast Correlation Based Filter (FCBF) algorithm.
 ![Filter Methods](https://upload.wikimedia.org/wikipedia/commons/2/2c/Filter_Methode.png)
+
 
 
 ## [Wrapper Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Wrapper%20Methods.md)
@@ -28,9 +31,11 @@ In general, there are three main types of feature selection methods, namely **fi
 ![Wrapper Methods](https://upload.wikimedia.org/wikipedia/commons/0/04/Feature_selection_Wrapper_Method.png)
 
 
+
 ## [Embedded Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Embeded%20Methods.md) 
 > Embedded methods have been recently proposed that try to combine the advantages of both previous methods. A learning algorithm takes advantage of its own variable selection process and performs feature selection and classification simultaneously, such as the FRMT algorithm.
 ![Embedded Methods ](https://upload.wikimedia.org/wikipedia/commons/b/bf/Feature_selection_Embedded_Method.png)
+
 
 
 ## [Graph Based Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Graph%20Based%20Methods.md)
