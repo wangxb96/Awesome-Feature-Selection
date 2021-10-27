@@ -29,13 +29,13 @@ In general, there are three main types of feature selection methods, namely **fi
 * The increasing overfitting risk when the number of observations is insufficient.
 * The significant computation time when the number of variables is large.
 <!--![Wrapper Methods](https://upload.wikimedia.org/wikipedia/commons/0/04/Feature_selection_Wrapper_Method.png)-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Feature_selection_Wrapper_Method.png" alt="drawing" width="550"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Feature_selection_Wrapper_Method.png" alt="drawing" width="500"/>
 
 
 ## [Embedded Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Embeded%20Methods.md) 
 > Embedded methods have been recently proposed that try to combine the advantages of both previous methods. A learning algorithm takes advantage of its own variable selection process and performs feature selection and classification simultaneously, such as the FRMT algorithm.
 <!--![Embedded Methods ](https://upload.wikimedia.org/wikipedia/commons/b/bf/Feature_selection_Embedded_Method.png)-->
-<img src=https://upload.wikimedia.org/wikipedia/commons/b/bf/Feature_selection_Embedded_Method.png" alt="drawing" width="450"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Feature_selection_Embedded_Method.png" alt="drawing" width="500"/>
 
 
 ## [Graph Based Methods](https://github.com/wangxb96/Awesome-Feature-Selection/blob/main/Graph%20Based%20Methods.md)
